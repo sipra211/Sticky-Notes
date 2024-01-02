@@ -1,0 +1,16 @@
+com/example/notes/MyAdapter.java
+ com.example.notes.MyAdapter
+ com.example.notes.MyAdapter$1
+ com.example.notes.MyAdapter$1$1
+ com.example.notes.MyAdapter$MyViewHolder
+com/example/notes/BuildConfig.java
+ com.example.notes.BuildConfig
+com/example/notes/AddNotesActivity.java
+ com.example.notes.AddNotesActivity
+ com.example.notes.AddNotesActivity$1
+com/example/notes/MainActivity.java
+ com.example.notes.MainActivity
+ com.example.notes.MainActivity$1
+ com.example.notes.MainActivity$2
+com/example/notes/Note.java
+ com.example.notes.Note
